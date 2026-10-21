@@ -1,0 +1,8 @@
+{
+  "name": "Remix Smart Digital Outpass \u0026 Hostel Movement Analytics System",
+  "description": "An intelligent digital outpass and movement analytics platform designed to eliminate waiting queues, enable direct parent approval, automate QR gate verification, and provide real-time hostel movement analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
